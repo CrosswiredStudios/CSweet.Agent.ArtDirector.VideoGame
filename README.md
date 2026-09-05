@@ -6,7 +6,7 @@ Owns art direction, visual targets, asset briefs, consistency review, and final 
 
 - Package ID: `com.csweet.video-game-art-director`
 - Version: `1.0.0`
-- Provides: `video-game.art-director.execute.v1`
+- Provides: `work.execution.run.v1`
 - Activation: manual
 - Requested platform/provider capabilities: none
 - Event subscriptions: none
@@ -27,4 +27,4 @@ Keep `csweet-plugin.json` at the repository root. Import a reviewed GitHub commi
 clone this repository as an immediate child of C-Sweet's configured local agent catalog. Review
 the exact manifest, grants, activation mode, and source before approving installation.
 
-Built with `CSweet.Agent.SDK` 3.24.0.
+Built with `CSweet.Agent.SDK` 3.27.0 and `CSweet.VideoGame.AgentKit` 2.1.0.
