@@ -8,7 +8,7 @@
     "specializationKeys": ["video-game-development", "art-direction"]
   },
   "id": "com.csweet.video-game-art-director",
-  "name": "Video Game Art Director",
+  "name": "Marcus Bennett",
   "version": "2.1.1",
   "publisher": { "id": "com.csweet", "name": "C-Sweet" },
   "runtime": {
@@ -83,6 +83,9 @@
   "webAccess": { "mode": "None", "rules": [] },
   "ui": [],
   "catalog": {
+    "imageUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.ArtDirector.VideoGame/main/assets/branding/portrait-v1.jpg",
+    "companyLogoUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.ArtDirector.VideoGame/main/assets/branding/csweet-icon.svg",
+    "accentColor": "#AA5445",
     "summary": "Owns art direction, visual targets, asset briefs, consistency review, and final visual findings.",
     "category": "Creative",
     "role": { "key": "game-art-director", "name": "Video Game Art Director" },
